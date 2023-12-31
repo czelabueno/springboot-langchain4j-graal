@@ -6,6 +6,8 @@ This sample app is part of a Java GenAI use case with OpenAI GPT LLM and it's pa
 
 ![java-genai-frontend.png](images%2Fjava-genai-frontend.gif)
 
+The frontend was built on angular. Here is the [repo](https://github.com/czelabueno/javagenai-frontend.git).
+
 ## Run it
 ### Add your OpenAI API Key
 It's recommended create an environment var like this:
